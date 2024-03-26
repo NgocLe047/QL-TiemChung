@@ -2,28 +2,31 @@
 
 ## Introduction
 
-QL-TiemChung is a comprehensive application designed for vaccination center management. It facilitates efficient handling of appointments, vaccine inventory, and customer records through a user-friendly interface.
+QL-TiemChung is a comprehensive web application designed for the efficient management of vaccination records. It facilitates users in registering for vaccinations, accessing their vaccination history, and monitoring their children's vaccination progress.
 
 ## Features
 
-- Appointment scheduling and management
-- Vaccine stock tracking
-- Customer record keeping
+- **Registration:** Enables users to sign up for vaccinations using personal and contact information.
+- **Vaccination History:** Users can review their vaccination dates, vaccine types, and administering healthcare providers.
+- **Vaccination Status:** Offers tracking for children's vaccinations, including received, due, and overdue vaccines.
+- **Reminders:** Feature to set reminders for upcoming vaccinations for their children.
+- **Reporting:** Generates reports on personal vaccination history and children's vaccination status.
 
 ## Installation
 
-1. Clone the repository
-2. Follow the setup instructions for backend and frontend components
-3. Run the application
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/NgocLe047/QL-TiemChung.git
+2. Open the .sln file in Visual Studio, build the solution, and run the application.
 
 ## Usage
 
-Navigate the application to manage appointments, track vaccine stocks, and access customer records.
+Navigate through the application to register for vaccinations, view and manage vaccination histories, set reminders, and generate reports.
 
 ## Contributing
 
-Contributions are welcome. Please fork the repository, make your changes, and submit a pull request.
+Contributions are welcomed. Fork the repository, create a feature branch, commit your changes, and submit a pull request.
 
 ## License
 
-MIT License. See the LICENSE file for more details.
+Licensed under the MIT License.
